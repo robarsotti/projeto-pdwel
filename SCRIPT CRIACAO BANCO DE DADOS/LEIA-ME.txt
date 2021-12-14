@@ -1,1 +1,1 @@
-ALTERAR O CONTEÚDO DA VARIAVEL PASSWORD NO ARQUIVO db_conn.php
+ALTERAR O CONTEÚDO DA VARIAVEL PASSWORD (adicionar a senha do seu bd local) NO ARQUIVO db_conn.php
