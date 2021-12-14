@@ -1,0 +1,15 @@
+/*create database projeto_pdwel;*/
+use projeto_pdwel;
+
+create table tb_funcionarios(
+
+id_funcionario int primary key not null auto_increment,
+nome_funcionario varchar(50) not null,
+email_funcionario varchar(50) not null,
+salario_funcionario varchar(6) not null,
+dt_nascimento_funcionario varchar(20) not null,
+endereco_funcionario varchar(100) not null
+
+);
+
+select * from tb_funcionarios;
